@@ -3,7 +3,7 @@
 
 <!--**mschandana16/mschandana16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on building Ethos, a blog website.
+- 🔭 I’m currently working on solving a few issues in Appwrite's repos.
 - 🌱 I’m currently learning ML, web and cloud dev.
 - 👯 I’m looking to collaborate on anything in general. Always open to learning and exploring new tech!!
 
