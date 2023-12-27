@@ -1,9 +1,9 @@
+### Hi there 👋
 <h1 align="center">Hi, I'm Chandana 👋</h1>
 
-<!--
 **mschandana16/mschandana16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on solving a few issues in Appwrite's repos.
+- 🔭 I’m currently working on building Ethos, a blog website.
 - 🌱 I’m currently learning ML, web and cloud dev.
 - 👯 I’m looking to collaborate on anything in general. Always open to learning and exploring new tech!!
 
@@ -22,7 +22,7 @@
       <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
 
-    
+
 <!-- Github statistics div -->
 
 <h1 align="center">GitHub Statistics 📃</h1>
@@ -37,7 +37,6 @@
 		<td><a href="https://github.com/mschandana16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mschandana16&theme=nord"></a></td>
 		<td><a href="https://github.com/mschandana16"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mschandana16&theme=nord_dark"></a></td>
 	</tr>
-	
 	</table>
 
 <!-- My Holopinn board-->
@@ -46,5 +45,3 @@
 <div>
 
 [![An image of @mschandana16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mschandana16)](https://holopin.io/@mschandana16)
-
-
