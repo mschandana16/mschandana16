@@ -1,7 +1,7 @@
-### Hi there 👋
+
 <h1 align="center">Hi, I'm Chandana 👋</h1>
 
-**mschandana16/mschandana16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**mschandana16/mschandana16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on building Ethos, a blog website.
 - 🌱 I’m currently learning ML, web and cloud dev.
