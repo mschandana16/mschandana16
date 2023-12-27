@@ -37,6 +37,7 @@
 		<td><a href="https://github.com/mschandana16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mschandana16&theme=nord"></a></td>
 		<td><a href="https://github.com/mschandana16"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mschandana16&theme=nord_dark"></a></td>
 	</tr>
+	<tr><td>  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=react&preferLogin=true">    <img  alt="mschandana16's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mschandana16?cardType=github&theme=react&preferLogin=true" />  </a></td></tr>
 	</table>
 
 <!-- My Holopinn board-->
