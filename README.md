@@ -4,7 +4,7 @@
 <!--**mschandana16/mschandana16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on solving a few issues in Appwrite's repos.
-- 🌱 I’m currently learning web and cloud dev. And a lil of app dev as well ;)
+- 🌱 I’m currently learning web and cloud dev. And a little bit of app dev as well ;)
 - 👯 I’m looking to collaborate on anything in general. Always open to learning and exploring new tech!!
 
 
