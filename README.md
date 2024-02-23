@@ -77,9 +77,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-
-
-
 <!-- Github statistics div -->
 
 <h1 align="center">GitHub Statistics 📃</h1>
